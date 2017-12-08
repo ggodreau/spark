@@ -11,6 +11,6 @@
 
 # Videos
 ## Intro to Scala
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0tVSkyvrUbo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0tVSkyvrUbo" target="_blank"><img src="http://img.youtube.com/vi/0tVSkyvrUbo/0.jpg" 
+alt="Intro to Scala" width="240" height="180" border="10" /></a>
