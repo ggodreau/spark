@@ -1,4 +1,4 @@
-# Scala Cheatsheets
+# Spark / Scala Cheatsheets
 | Topic | Notebooks | Video |
 |:---|---|:---|
 | Intro to Scala and Dataframes | <ul><li>[Scala Dataframes](https://cdn.rawgit.com/ggodreau/spark/riley/Scala%20and%20DataFrames.html)</li><li>[Credit](https://cdn.rawgit.com/ggodreau/spark/riley/Credit.html)</li></ul> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0tVSkyvrUbo" target="_blank"><img src="http://img.youtube.com/vi/0tVSkyvrUbo/0.jpg" alt="Intro to Scala" width="240" height="180" border="10" /></a> |
